@@ -1,0 +1,22 @@
+body {
+    background-image: url(gradientBGFaceRec.jpg);
+    background-size: cover;
+}
+
+b {
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
+
+p {
+    font-family: 'Lobster', cursive;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
